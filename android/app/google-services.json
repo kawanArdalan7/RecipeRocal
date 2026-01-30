@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369857042083",
+    "project_id": "recipe-rocal-42e29",
+    "storage_bucket": "recipe-rocal-42e29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369857042083:android:2bb076a7faba6e73d19116",
+        "android_client_info": {
+          "package_name": "com.reciperocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAklUXFdPs-AHI3D3YsS29yrxkHRn1RJQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
