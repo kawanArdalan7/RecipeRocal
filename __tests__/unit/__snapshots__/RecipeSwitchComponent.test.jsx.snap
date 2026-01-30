@@ -1,0 +1,107 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RecipePointsSwitch renders correctly 1`] = `
+<View>
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "elevation": 3,
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 15,
+          "marginTop": 10,
+          "padding": 5,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000000",
+        }
+      }
+    >
+      Did you cook this meal?
+    </Text>
+    <RCTSwitch
+      accessibilityRole="switch"
+      onChange={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onTintColor="#81b0ff"
+      style={
+        {
+          "height": 31,
+          "width": 51,
+        }
+      }
+      thumbTintColor="#f4f3f4"
+      tintColor="#767577"
+      value={false}
+    />
+    <Text
+      style={
+        {
+          "color": undefined,
+        }
+      }
+    >
+      No I didn't cook it
+    </Text>
+  </View>
+  <View
+    style={
+      [
+        {
+          "alignItems": "center",
+          "elevation": 3,
+          "flexDirection": "row",
+          "justifyContent": "center",
+        },
+        {
+          "backgroundColor": "#FFFFFF",
+          "borderRadius": 15,
+          "marginTop": 10,
+          "padding": 5,
+          "paddingLeft": 15,
+          "paddingRight": 15,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "#000000",
+        }
+      }
+    >
+      Do you want to save this meal?
+    </Text>
+    <RCTSwitch
+      accessibilityRole="switch"
+      onChange={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onTintColor="#81b0ff"
+      style={
+        {
+          "height": 31,
+          "width": 51,
+        }
+      }
+      thumbTintColor="#f4f3f4"
+      tintColor="#767577"
+      value={false}
+    />
+  </View>
+</View>
+`;

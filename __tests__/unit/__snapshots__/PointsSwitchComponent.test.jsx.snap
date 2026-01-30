@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PointsSwitch renders correctly 1`] = `
+<View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "elevation": 3,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      Did you cook this meal?
+    </Text>
+    <RCTSwitch
+      accessibilityRole="switch"
+      onChange={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onTintColor="#81b0ff"
+      style={
+        {
+          "height": 31,
+          "width": 51,
+        }
+      }
+      thumbTintColor="#f4f3f4"
+      tintColor="#767577"
+      value={false}
+    />
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      No I didn't cook it
+    </Text>
+  </View>
+  <View
+    style={
+      {
+        "alignItems": "center",
+        "elevation": 3,
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        {
+          "color": "black",
+        }
+      }
+    >
+      Do you want to save this meal?
+    </Text>
+    <RCTSwitch
+      accessibilityRole="switch"
+      onChange={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onTintColor="#81b0ff"
+      style={
+        {
+          "height": 31,
+          "width": 51,
+        }
+      }
+      thumbTintColor="#f4f3f4"
+      tintColor="#767577"
+      value={false}
+    />
+  </View>
+</View>
+`;
