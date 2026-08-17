@@ -55,12 +55,6 @@
 
 ## Project Overview
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=vwlEttW6ANs">
-    <img src="https://img.youtube.com/vi/vwlEttW6ANs/0.jpg" alt="RecipeRocal Demo Video">
-  </a>
-</div>
-
 RecipeRocal is an **Android mobile application** designed to promote healthier eating habits through **gamification**, **goal-driven nutrition tracking**, and **recipe discovery**. Users can set daily macronutrient goals, log meals manually, or discover new recipes using the **Edamam API**, making nutrition tracking both informative and enjoyable.
 
 The app emphasizes:
